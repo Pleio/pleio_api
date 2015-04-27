@@ -1,0 +1,6 @@
+tools
+.svn
+*.pem
+example*.php
+*activate.php
+*.bak
